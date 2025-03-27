@@ -7,7 +7,7 @@ This is the source code for my blog, which is built with [Astro](https://astro.b
 
 ## Preview
 
-![Theme Preview](https://github.com/izmttk/astro-mecure/assets/26360968/4c79fba0-390d-48f6-a887-bcbc39c5e462)
+![Theme Preview](https://github.com/takashi-goldenfield/astro-mecure/assets/26360968/4c79fba0-390d-48f6-a887-bcbc39c5e462)
 
 - 银河渡舟的小站: <https://suborbit.net>
 
@@ -32,7 +32,7 @@ This is the source code for my blog, which is built with [Astro](https://astro.b
 ### 1. Clone the repo
 
 ```bash
-git clone https://https://github.com/izmttk/astro-mecure.git
+git clone https://https://github.com/takashi-goldenfield/astro-mecure.git
 cd astro-mecure
 ```
 
